@@ -1,7 +1,7 @@
-#Manual Installation
+# Manual Installation
 
 - From notes
 
-#Docker Installation
+# Docker Installation
 
-#Docker Compose Installtion Steps
+# Docker Compose Installtion Steps
